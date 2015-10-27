@@ -17,3 +17,6 @@ These datasets contain the breakdown of graduates from each college, school and 
 
 I intend to create the API to allow users to probe popularity of courses and percentage of progression from undergraduate to postgraduate in a given field. It should also return the gender break down by field of study or Institute of Higher Leanring.
 
+### Stretch
+
+These data sets are for the 2014-2015 graduation period, there are similar datasets for previous years, so I may add in one or two of these to allow periodic comparison and also add API methods to allow insertion of new data.
